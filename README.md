@@ -38,7 +38,7 @@ I'm a student at **Northern Technical University** 🎓, studying **Technical Co
 ### 🏅 Achievements
 
 - **TryHackMe:** Ranked in the top 1% (10,000) globally.
-- **Certified Penetration Tester:**
+- **Certified Penetration Tester**
 
 ---
 
