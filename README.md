@@ -53,17 +53,9 @@ I'm a student at **Northern Technical University** 🎓, studying **Technical Co
 ### 📫 How to reach me:
 - **Email:** for.social.media2005@gmail.com
 - **TryHackMe:** [nuk](https://tryhackme.com/p/nuk)
+- Feel free to connect with me
 ---
 
-Feel free to connect with me or check out my repositories below 👇
-
----
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 Looking forward to collaborating on exciting projects in AI, cybersecurity, and beyond!
 
